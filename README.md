@@ -21,7 +21,11 @@ Check this out: [Do it this way](https://webdesignlandingpagebyadi.netlify.app)
     - How to approach the project in while building.
 
 
-## This project took me around 2 hours approximately which also include the ScreenShot taking and pusing to github.
+## This project took me around 3 hours approximately which also include the ScreenShot taking and pusing to github.
+
+## Message For Visitors
+    -Feel free to make changes and tag me
+    -Emails4adi@gmail.com
 
 ### Chek Me  
 
